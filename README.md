@@ -1,10 +1,14 @@
 # Fight-Fruit-VR
 
+NOTA IMPORTANTE: el archivo Fight_Fruit.sln debe renombrarse a Fight Fruit.sln, sin el "_".
+
 Introducción
+
 Este proyecto es una versión VR del famoso videojuego Fruit Ninja de Halfbrick Studios. La propia empresa sacó hace una versión VR que
 podéis ver aquí: https://halfbrick.com/our-games/fruit-ninja-vr/
 
 Requisitos funcionales:
+
 1. El usuario jugará partidas de 60 segundos.
 2. El usuario obtendrá una puntuación final al terminar la partida.
 3. Existirá una zona de juego con un radio inferior a dos metros. El usuario no podrá salir de dicho radio.
@@ -19,6 +23,7 @@ Requisitos funcionales:
 12. (opcional) Existirán “Power-ups” que podrán activarse con gestos o por voz. Por ejemplo: ralentizar el tiempo, inmunidad frente a bombas, destrucción de todas las frutas, armas con mayor alcance o munición, etc.
 
 Requisitos no funcionales:
+
 1. La aplicación debe poder visualizarse mediante un casco de realidad virtual. El casco puede ser el HTC Vive o el Oculus Quest.
 2. Los modelos 3D de la escena pueden obtenerse de cualquier fuente siempre que se documente de cual.
 3. Los gestos con el cuerpo deben ser capturados con Kinect.

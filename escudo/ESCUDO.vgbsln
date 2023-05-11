@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2019-11-27</Date>
+			<Time>13:34:46.6543824+01:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>c94a728b-2235-473a-b821-4434bc1eb67c</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>hacer_escudo.vgbproj</File>
+					</Items>
+					<Items>
+						<File>hacer_escudo.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

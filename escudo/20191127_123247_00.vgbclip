@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-11-27</Date>
+			<Time>13:44:03.7647062+01:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20191127_123247_00.xef</Clip>
+			<StartFrame>949</StartFrame>
+			<EndFrame>1050</EndFrame>
+			<ID>d1ec4b5e-d822-43ff-bad6-e555bb9f276c</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>974</CurrentFrameStart>
+			<CurrentFrameEnd>987</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="974">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="975">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="976">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="977">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="978">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="979">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="980">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="981">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="982">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="983">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="984">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="985">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="986">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+			<Items Frame="987">
+				<Items xsi:type="BoolAttribute" Name="hacer_escudo" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

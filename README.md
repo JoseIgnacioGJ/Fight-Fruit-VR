@@ -20,7 +20,6 @@ Requisitos funcionales:
 9. El impacto de las bombas sobre el usuario penalizará de alguna forma: puntuación, vida, armas, etc.
 10. La aplicación debe permitir el cambio de arma mediante comandos de voz. Se debe tener en cuenta si el arma es de una o de dos manos (tirachinas, escopeta, bazuca, etc.). Si el arma es de una mano, el usuario podrá elegir en que mano coloca el arma. Por ejemplo, el usuario podrá llevar un sable en la mano izquierda y una pistola en la mano derecha, o a la inversa.
 11. El escudo se activará, al menos, utilizando un gesto detectado a partir del movimiento del cuerpo del jugador.
-12. (opcional) Existirán “Power-ups” que podrán activarse con gestos o por voz. Por ejemplo: ralentizar el tiempo, inmunidad frente a bombas, destrucción de todas las frutas, armas con mayor alcance o munición, etc.
 
 Requisitos no funcionales:
 
